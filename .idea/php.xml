@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../core" />
+      <path value="$PROJECT_DIR$/../../ds" />
+      <path value="$PROJECT_DIR$/../../iek" />
+      <path value="$PROJECT_DIR$/../../rdfui" />
+      <path value="$PROJECT_DIR$/../fer" />
+      <path value="$PROJECT_DIR$/../afed" />
+      <path value="$PROJECT_DIR$/../ctarpr" />
+      <path value="$PROJECT_DIR$/../block_user" />
+      <path value="$PROJECT_DIR$/../hello_2022" />
+      <path value="$PROJECT_DIR$/../ausy_drazen" />
+      <path value="$PROJECT_DIR$/../edot_module" />
+      <path value="$PROJECT_DIR$/../change_block_user" />
+      <path value="$PROJECT_DIR$/../metatag_remove_fields" />
+      <path value="$PROJECT_DIR$/../mod_drupal7_flipbook1" />
+      <path value="$PROJECT_DIR$/../event_dispatcher_via_module_hook" />
+      <path value="$PROJECT_DIR$/../restrict_access_content_for_role" />
+      <path value="$PROJECT_DIR$/../../linkit" />
+      <path value="$PROJECT_DIR$/../../contrib" />
+      <path value="$PROJECT_DIR$/../../sitemap" />
+      <path value="$PROJECT_DIR$/../../honeypot" />
+      <path value="$PROJECT_DIR$/../../robotstxt" />
+      <path value="$PROJECT_DIR$/../../svg_image" />
+      <path value="$PROJECT_DIR$/../../cloudflare" />
+      <path value="$PROJECT_DIR$/../../formdazzle" />
+      <path value="$PROJECT_DIR$/../../google_tag" />
+      <path value="$PROJECT_DIR$/../../html_title" />
+      <path value="$PROJECT_DIR$/../../search_api" />
+      <path value="$PROJECT_DIR$/../../twig_tweak" />
+      <path value="$PROJECT_DIR$/../../menu_export" />
+      <path value="$PROJECT_DIR$/../../route_alter" />
+      <path value="$PROJECT_DIR$/../../entity_clone" />
+      <path value="$PROJECT_DIR$/../../contact_block" />
+      <path value="$PROJECT_DIR$/../../schema_metatag" />
+      <path value="$PROJECT_DIR$/../../themable_forms" />
+      <path value="$PROJECT_DIR$/../../contact_storage" />
+      <path value="$PROJECT_DIR$/../../filefield_paths" />
+      <path value="$PROJECT_DIR$/../../disable_messages" />
+      <path value="$PROJECT_DIR$/../../views_add_button" />
+      <path value="$PROJECT_DIR$/../../devel_kint_extras" />
+      <path value="$PROJECT_DIR$/../../social_media_links" />
+      <path value="$PROJECT_DIR$/../../config_partial_export" />
+      <path value="$PROJECT_DIR$/../../lscache-drupal-master" />
+      <path value="$PROJECT_DIR$/../../transliterate_filenames" />
+      <path value="$PROJECT_DIR$/../../media_responsive_thumbnail" />
+      <path value="$PROJECT_DIR$/../../better_social_sharing_buttons" />
+      <path value="$PROJECT_DIR$/../../../libraries" />
+      <path value="$PROJECT_DIR$/../../../vendor" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>

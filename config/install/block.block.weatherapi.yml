@@ -1,0 +1,19 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - weather
+id: weatherapi
+theme: olivero
+region: content
+weight: -8
+provider: null
+plugin: weather_api
+settings:
+  id: weather_api
+  label: 'weather api'
+  label_display: visible
+  provider: weather
+  foo: Alabama
+  state: 'New Mexico'
+visibility: {  }

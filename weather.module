@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * Implements hook_help().
+ */
+function weather_help($route_name, \Drupal\Core\Routing\RouteMatchInterface $route_match)
+{
+  switch ($route_name) {
+    case 'help.page.weather':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('This module displays weather forecast for US states.') . '</p>';
+      $output .= '<p>' . t('In block administer page you will find already enabled WEATHER API block.') . '</p>';
+      $output .= '<p>' . t('In Configure block page you can choose which US State to forecast.') . '</p>';
+
+      return $output;
+
+    default:
+  }
+}

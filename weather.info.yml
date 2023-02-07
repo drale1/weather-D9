@@ -1,0 +1,7 @@
+name: Weather
+type: module
+description: Module displays weather forecast for US states
+package: drax
+core_version_requirement: ^9 || ^10
+dependencies:
+  - drupal:block
